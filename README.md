@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Nicky Bot - V1 preview
 
 > Projeto de bot para WhatsApp desenvolvido por **NightX** e **Nich**.  
@@ -40,3 +41,6 @@ nicky-main/
 ├── .gitignore      # Arquivos/pastas ignoradas pelo Git
 ├── package.json    # Dependências e informações do projeto
 └── README.md       # Documentação do projeto
+=======
+# Nicky-Bot---V1-preview
+>>>>>>> f0a3924eb44601574d1d7db7af4a2b3cc7107969
