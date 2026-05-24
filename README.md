@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 Nicky Bot - V1 preview
 
 > Projeto de bot para WhatsApp desenvolvido por **NightX** e **Nich**.  
@@ -16,9 +15,3 @@ Essa é a **Versão 1 Preview**, ainda em fase de construção e testes.
 - Node.js
 - whatsapp-web.js
 - JavaScript
-
----
-
-=======
-# Nicky-Bot---V1-preview
->>>>>>> f0a3924eb44601574d1d7db7af4a2b3cc7107969
