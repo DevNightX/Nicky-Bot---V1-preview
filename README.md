@@ -19,28 +19,6 @@ Essa é a **Versão 1 Preview**, ainda em fase de construção e testes.
 
 ---
 
-## 📂 Estrutura do Projeto
-nicky-main/
-├── config/         # Arquivos de configuração e mensagens auxiliares
-│   ├── config.js
-│   └── helper.js
-├── src/
-│   ├── commands/   # Todos os comandos separados por arquivo
-│   │   ├── s.js
-│   │   ├── bug.js
-│   │   ├── suporte.js
-│   │   └── tagme.js
-│   ├── connection/ # Gerenciamento de conexão e eventos
-│   │   ├── connect.js
-│   │   ├── qr.js
-│   │   ├── ready.js
-│   │   └── sessions/
-│   ├── services/   # Serviços e inicialização do cliente
-│   │   └── client.js
-│   └── index.js    # Cérebro principal do sistema
-├── .gitignore      # Arquivos/pastas ignoradas pelo Git
-├── package.json    # Dependências e informações do projeto
-└── README.md       # Documentação do projeto
 =======
 # Nicky-Bot---V1-preview
 >>>>>>> f0a3924eb44601574d1d7db7af4a2b3cc7107969
